@@ -1,0 +1,7 @@
+pip intsall torch
+
+pip install streamlit
+
+pip install git+https://github.com/PrithivirajDamodaran/Styleformer.git
+
+pip install Pandas
